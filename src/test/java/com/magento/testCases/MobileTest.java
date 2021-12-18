@@ -30,7 +30,6 @@ public class MobileTest extends PageIntializer{
 	   SoftAssert sa= new SoftAssert();
 	   sa.assertEquals(dashboardPrice, detailsprice,"values did match in details price and dashboard price");
 	   CommonMethods.takeScreenshot("price");
-	   
 	   sa.assertAll();
 	
 	
