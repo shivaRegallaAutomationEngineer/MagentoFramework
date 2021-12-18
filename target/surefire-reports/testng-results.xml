@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.magento.testCases.MobileTest" duration-ms="19224" started-at="2021-12-12T17:00:24Z" finished-at="2021-12-12T17:00:44Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="19224" started-at="2021-12-12T17:00:24Z" finished-at="2021-12-12T17:00:44Z">
+      <class name="com.magento.testCases.MobileTest">
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:com.magento.testCases.MobileTest@3f2a3a5]" name="generateReport" is-config="true" duration-ms="345" started-at="2021-12-12T17:00:24Z" finished-at="2021-12-12T17:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.magento.testCases.MobileTest@3f2a3a5]" name="setUp" is-config="true" duration-ms="12149" started-at="2021-12-12T17:00:25Z" finished-at="2021-12-12T17:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_001()[pri:0, instance:com.magento.testCases.MobileTest@3f2a3a5]" name="test_001" duration-ms="5697" started-at="2021-12-12T17:00:37Z" finished-at="2021-12-12T17:00:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.magento.testCases.MobileTest@3f2a3a5]" name="tearDown" is-config="true" duration-ms="999" started-at="2021-12-12T17:00:43Z" finished-at="2021-12-12T17:00:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="writeReport()[pri:0, instance:com.magento.testCases.MobileTest@3f2a3a5]" name="writeReport" is-config="true" duration-ms="3" started-at="2021-12-12T17:00:44Z" finished-at="2021-12-12T17:00:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeReport -->
+      </class> <!-- com.magento.testCases.MobileTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.magento.testCases.MobileTest -->
+</testng-results>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22705" started-at="2021-12-12T16:49:38Z" finished-at="2021-12-12T16:50:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22705" started-at="2021-12-12T16:49:38Z" finished-at="2021-12-12T16:50:00Z">
+      <class name="com.magento.testCases.MobileTest">
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:com.magento.testCases.MobileTest@6eebc39e]" name="generateReport" is-config="true" duration-ms="480" started-at="2021-12-12T16:49:38Z" finished-at="2021-12-12T16:49:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.magento.testCases.MobileTest@6eebc39e]" name="setUp" is-config="true" duration-ms="13332" started-at="2021-12-12T16:49:38Z" finished-at="2021-12-12T16:49:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_001()[pri:0, instance:com.magento.testCases.MobileTest@6eebc39e]" name="test_001" duration-ms="6952" started-at="2021-12-12T16:49:52Z" finished-at="2021-12-12T16:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.magento.testCases.MobileTest@6eebc39e]" name="tearDown" is-config="true" duration-ms="1168" started-at="2021-12-12T16:49:59Z" finished-at="2021-12-12T16:50:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="writeReport()[pri:0, instance:com.magento.testCases.MobileTest@6eebc39e]" name="writeReport" is-config="true" duration-ms="738" started-at="2021-12-12T16:50:00Z" finished-at="2021-12-12T16:50:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeReport -->
+      </class> <!-- com.magento.testCases.MobileTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
